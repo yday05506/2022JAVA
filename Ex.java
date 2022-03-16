@@ -12,5 +12,7 @@ public class Ex {
 		s2.h();
 		s2.f(); // static
 		System.out.println(s1.m);
+		System.out.println(s2.m);
+		System.out.println(StaticSample.m);
 	}
 } 
